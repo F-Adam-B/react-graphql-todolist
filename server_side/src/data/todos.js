@@ -61,4 +61,4 @@ const Todos = [
 	},
 ];
 
-module.exports = 'Todos';
+module.exports = Todos;

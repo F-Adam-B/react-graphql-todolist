@@ -73,4 +73,4 @@ const Users = [
 	},
 ];
 
-module.exports = 'Users';
+module.exports = Users;
